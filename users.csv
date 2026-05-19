@@ -1,0 +1,5 @@
+DisplayName,UserPrincipalName,GivenName,Surname,JobTitle,Department,UsageLocation,LicenseSku
+John Smith,john.smith@kennyk.onmicrosoft.com,John,Smith,Sales Representative,Sales,AU,Microsoft365BusinessPremium
+Emily Brown,emily.brown@kennyk.onmicrosoft.com,Emily,Brown,HR Coordinator,Human Resources,AU,Microsoft365BusinessPremium
+Michael Lee,michael.lee@kennyk.onmicrosoft.com,Michael,Lee,IT Support Technician,IT,AU,Microsoft365BusinessPremium
+Sarah Wilson,sarah.wilson@kennyk.onmicrosoft.com,Sarah,Wilson,Finance Officer,Finance,AU,Microsoft365BusinessPremium
